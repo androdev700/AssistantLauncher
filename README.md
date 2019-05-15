@@ -1,6 +1,6 @@
 # AssistantLauncher
 
-### Remap Bixby Button on S8, Note 8, S9, S9+, Note 9, S10, S10+, S10e
+### Remap Bixby Button on S8, S8+, Note 8, S9, S9+, Note 9, S10, S10+, S10e
 
 ### To enable ->
 
